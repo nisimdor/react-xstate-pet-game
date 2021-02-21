@@ -1,5 +1,24 @@
 # react-xstate-pet-game
 
+A game created with React and XState (https://xstate.js.org/)
+
+![Game Display](https://github.com/nisimdor/react-xstate-pet-game/blob/master/diagrams/game.png)
+
+## State Machines
+For this game I've used the XState library to **model the logic of the game with state machines**.
+
+The diagrams of the state machine is as follows:
+
+### Fox State Machine
+![Fox State Machine](https://github.com/nisimdor/react-xstate-pet-game/blob/master/diagrams/foxMachine.png)
+
+### Weather State Machine
+![Weather State Machine](https://github.com/nisimdor/react-xstate-pet-game/blob/master/diagrams/weatherMachine.png)
+
+This project is based on the wonderful courses from **Frontend Masters**:
+- Complete Front-End Project: Build a Game - https://frontendmasters.com/courses/front-end-game/
+- State Modeling in React with XState - https://frontendmasters.com/courses/xstate-react/
+
 ## Game Rules
 
 1.  The game starts in an initialized state. The user must press the center game to get started.
