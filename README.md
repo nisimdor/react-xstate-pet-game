@@ -2,6 +2,8 @@
 
 A game created with React and XState (https://xstate.js.org/)
 
+**Link to the game: https://nisimdor.github.io/react-xstate-pet-game/**
+
 ![Game Display](https://github.com/nisimdor/react-xstate-pet-game/blob/master/diagrams/game.png)
 
 ## State Machines
